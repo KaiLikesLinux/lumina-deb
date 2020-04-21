@@ -1,0 +1,2 @@
+version=3
+https://github.com/lumina-desktop/lumina/archive/ .*/v(\d[\d\.]+)-Release\.tar\.gz

@@ -1,0 +1,8 @@
+Package: lumina
+Version: 1.6.0
+Section: x11
+Priority: optional
+Architecture: amd64
+Maintainer: Christopher Roy Bratusek <nano@jpberlin.de> / Kai Lyons <kai.lyons@kaix.live>
+Depends: build-essential, qt5-default, qttools5-dev-tools, libxrandr-dev, libqt5gui5, qtmultimedia5-dev, libqt5multimediawidgets5, libqt5network5, libqt5svg5-dev, libqt5x11extras5-dev, libxcb-icccm4-dev, libxcb-ewmh-dev, libxcb-composite0-dev, libxcb-damage0-dev, libxcb-util0-dev, libphonon-dev, libxcomposite-dev, libxdamage-dev, libxrender-dev, libxcb-image0-dev, libxcb-screensaver0-dev, qtdeclarative5-dev, fluxbox, kde-style-oxygen, xscreensaver, xbacklight, alsa-utils, acpi, numlockx, pavucontrol, xterm, sysstat, libxcursor-dev, libqt5concurrent5, libqt5core5a, gdm3, qtbase5-private-dev
+Recommends: qt5-configuration-tool, usbmount, xarchiver, pavucontrol, compton
